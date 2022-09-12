@@ -49,6 +49,7 @@ module.exports = {
         colors: {
           hoverBg: '#5624d0',
           buttonBg: '#1C1D1F',
+          secondary: '#8246D0',
           headingColor: '#2e2e2e',
           textColor: '#515151',
           cartNumBg: '#e80013',
