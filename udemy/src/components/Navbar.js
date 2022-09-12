@@ -6,10 +6,12 @@ import { BsGlobe2 } from "react-icons/bs";
 
 const Navbar = () => {
   return (
-    <div className='navbar w-screen bg-white h-[72px] px-6 shadow-md flex items-center'>
+    <div className='navbar'>
         <img src={Logo} alt="Logo" className='w-[93px] h-[34px] pr-[8px]' />
-        <div className='h-[100%] flex items-center justify-center mx-[12px]'><span className='text-ButtonBg font-light font-xs'>Kategorie</span></div>
+        <div className='btn-tl'><span className='btn-tl--text'>Kategorie</span></div>
         <SearchBar />
+        <div className='btn-tl'><span className='btn-tl--text'>Udemy Business</span></div>
+        <div className='btn-tl'><span className='btn-tl--text'>Nauczaj na Udemy</span></div>
         <Button outline={true} className="mr-[0.8rem]">Zaloguj się</Button>
         <Button outline={false}>Zarejestruj się</Button>
         <Button outline={true}><BsGlobe2 /></Button>

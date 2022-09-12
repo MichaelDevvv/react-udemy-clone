@@ -47,6 +47,7 @@ module.exports = {
           '2xl': '1536',
         },
         colors: {
+          hoverBg: '#5624d0',
           buttonBg: '#1C1D1F',
           headingColor: '#2e2e2e',
           textColor: '#515151',
@@ -56,8 +57,8 @@ module.exports = {
           lighttextGray: '#9ca0ab',
           card: 'rgba(256, 256, 256, .8)',
         },
-      }
-  },
+      },
+    },
   plugins: [],
 }
 
