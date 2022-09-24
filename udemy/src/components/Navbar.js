@@ -1,14 +1,13 @@
 import React from 'react'
 import Button from './Button'
 import SearchBar from './SearchBar'
-import Logo from '../images/logo-udemy.svg'
 import { BsGlobe2 } from 'react-icons/bs'
 import { GrCart } from 'react-icons/gr'
 
 const Navbar = () => {
   return (
     <div className="navbar">
-      <img src={Logo} alt="Logo" className="w-[93px] h-[34px] pr-[8px]" />
+      <img src="/assets/images/logo-udemy.svg" alt="Logo" className="w-[93px] h-[34px] pr-[8px]" />
 
       <div className="btn">
         <span className="text-ButtonBg font-light font-xs">Categories</span>

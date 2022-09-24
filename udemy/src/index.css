@@ -22,6 +22,6 @@ body {
   }
     
   .navbar {
-    @apply w-screen bg-white h-[72px] px-6 shadow-md flex items-center;
+    @apply w-screen bg-white h-[72px] px-6 shadow-md flex items-center justify-between;
   }
 }
