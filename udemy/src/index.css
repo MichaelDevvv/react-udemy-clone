@@ -17,20 +17,11 @@ body {
 @tailwind utilities;
 
 @layer components {
-.btn {
-  @apply h-[40px] px-3 text-sm font-bold border-[1px] border-buttonBg ml-[0.8rem];
-}
-  
-.btn-tl {
-  @apply h-[100%] flex items-center justify-center my-[1.2rem] px-[0.5rem];
-}
-  
-.btn-tl--text {
-  @apply font-medium text-[13px] hover:text-hoverBg cursor-pointer;
-}
-  
-.navbar {
-  @apply w-screen bg-white h-[72px] px-6 shadow-md flex items-center;
-}
-
+  .btn {
+    @apply h-auto flex items-center justify-center mx-[12px];
+  }
+    
+  .navbar {
+    @apply w-screen bg-white h-[72px] px-6 shadow-md flex items-center;
+  }
 }
