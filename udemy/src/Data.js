@@ -1,49 +1,49 @@
-export const category = [
+export const categories = [
     {
         'id': 1,
-        'img': '../src/images/design-cat-logo.jpeg',
+        'img': 'design-cat-logo.jpeg',
         'title': 'Design',
     },
 
     {
         'id': 2,
-        'img': '../src/images/dev-cat-logo.jpeg',
+        'img': 'dev-cat-logo.jpeg',
         'title': 'Development',
     },
 
     {
         'id': 3,
-        'img': '../src/images/markt-cat-logo.jpeg',
+        'img': 'markt-cat-logo.jpeg',
         'title': 'Marketing',
     },
 
     {
         'id': 4,
-        'img': '../src/images/it-cat-logo.jpeg',
+        'img': 'it-cat-logo.jpeg',
         'title': 'IT and Software',
     },
 
     {
         'id': 5,
-        'img': '../src/images/pd-cat-logo.jpeg',
+        'img': 'pd-cat-logo.jpeg',
         'title': 'Personal Development',
     },
 
     {
         'id': 6,
-        'img': '../src/images/bs-cat-logo.jpeg',
+        'img': 'bs-cat-logo.jpeg',
         'title': 'Business',
     },
 
     {
         'id': 7,
-        'img': '../src/images/photo-cat-logo.jpeg',
+        'img': 'photo-cat-logo.jpeg',
         'title': 'Photography',
     },
 
     {
         'id': 8,
-        'img': '../src/images/music-cat-logo.jpeg',
+        'img': 'music-cat-logo.jpeg',
         'title': 'Music',
     },
 ]
@@ -51,23 +51,23 @@ export const category = [
 export const partners = [
     {
         'id': 1,
-        'img': '../src/images/nasdaqlogo.svg',
+        'img': 'nasdaqlogo.svg',
     },
     {
         'id': 2,
-        'img': '../src/images/vglogo.svg',
+        'img': 'vglogo.svg',
     },
     {
         'id': 3,
-        'img': '../src/images/boxlogo.svg',
+        'img': 'boxlogo.svg',
     },
     {
         'id': 4,
-        'img': '../src/images/netapplogo.svg',
+        'img': 'netapplogo.svg',
     },
     {
         'id': 5,
-        'img': '../src/images/evbritelogo.svg',
+        'img': 'evbritelogo.svg',
     },
     {
         'id': 6,
