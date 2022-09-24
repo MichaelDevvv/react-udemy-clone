@@ -17,7 +17,7 @@ const Categories = () => {
                     <img
                     src={`/assets/images/${item.img}`}
                     alt={item.title}
-                    className=" hover:scale-110 transition-all"
+                    className="hover:scale-105 transition-all"
                     />
                 </div>
                 <p className="text-sm font-bold">{item.title}</p>
