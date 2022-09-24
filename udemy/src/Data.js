@@ -71,6 +71,6 @@ export const partners = [
     },
     {
         'id': 6,
-        'img': '../src/images/tcslogo.svg',
+        'img': 'tcslogo.svg',
     },
 ]
