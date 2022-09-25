@@ -52,25 +52,31 @@ export const partners = [
     {
         'id': 1,
         'img': 'nasdaqlogo.svg',
+        'title': 'Nasdaq logo',
     },
     {
         'id': 2,
         'img': 'vglogo.svg',
+        'title': 'Volkswagen logo',
     },
     {
         'id': 3,
         'img': 'boxlogo.svg',
+        'title': 'Box logo',
     },
     {
         'id': 4,
         'img': 'netapplogo.svg',
+        'title': 'NetApp logo',
     },
     {
         'id': 5,
         'img': 'evbritelogo.svg',
+        'title': 'Eventbrite logo',
     },
     {
         'id': 6,
         'img': 'tcslogo.svg',
+        'title': 'Tata Consultancy Services logo',
     },
 ]
