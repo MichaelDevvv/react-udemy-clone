@@ -10,16 +10,16 @@ const Navbar = () => {
       <img src="/assets/images/logo-udemy.svg" alt="Logo" className="w-[93px] h-[34px] pr-[8px]" />
 
       <div className="btn">
-        <span className="text-ButtonBg font-light font-xs">Categories</span>
+        <span className="text-ButtonBg font-medium text-xs hover:text-hoverBg cursor-pointer">Categories</span>
       </div>
       <SearchBar />
       <div className="btn">
-        <span className="text-ButtonBg font-light font-xs">
+        <span className="text-ButtonBg font-medium text-xs hover:text-hoverBg cursor-pointer">
           Udemy Bussiness
         </span>
       </div>
       <div className="btn">
-        <span className="text-ButtonBg font-light font-xs">Teach on Udemy</span>
+        <span className="text-ButtonBg font-medium text-xs hover:text-hoverBg cursor-pointer">Teach on Udemy</span>
       </div>
       <GrCart size={25} className="p-0 m-0" />
       <Button outline={true} text={true} className="mr-[0.8rem]">
