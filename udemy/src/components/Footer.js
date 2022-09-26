@@ -6,26 +6,26 @@ const Footer = () => {
   return (
     <div className="px-16 pt-10 bg-buttonBg text-white">
         <div className="flex">
-            <ul className='mr-6'>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Udemy Business</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Teach on Udemy</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Get the app</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>About us</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Contact us</a></li>
+            <ul className='mr-[10rem]'>
+              <li><a href='/' className='link'>Udemy Business</a></li>
+              <li><a href='/' className='link'>Teach on Udemy</a></li>
+              <li><a href='/' className='link'>Get the app</a></li>
+              <li><a href='/' className='link'>About us</a></li>
+              <li><a href='/' className='link'>Contact us</a></li>
             </ul>
-            <ul className='mr-6'>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Careers</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Blog</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Help and Support</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Affiliate</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Investors</a></li>
+            <ul className='mr-[10rem]'>
+              <li><a href='/' className='link'>Careers</a></li>
+              <li><a href='/' className='link'>Blog</a></li>
+              <li><a href='/' className='link'>Help and Support</a></li>
+              <li><a href='/' className='link'>Affiliate</a></li>
+              <li><a href='/' className='link'>Investors</a></li>
             </ul>
-            <ul className='mr-6'>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Terms</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Privacy policy</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Cookie settings</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Sitemap</a></li>
-              <li><a href='/' className='py-1.5 text-xs font-medium'>Accessibility statement</a></li>
+            <ul className='mr-[10rem]'>
+              <li><a href='/' className='link'>Terms</a></li>
+              <li><a href='/' className='link'>Privacy policy</a></li>
+              <li><a href='/' className='link'>Cookie settings</a></li>
+              <li><a href='/' className='link'>Sitemap</a></li>
+              <li><a href='/' className='link'>Accessibility statement</a></li>
             </ul>
             <div className='ml-auto'>
               <Button>
