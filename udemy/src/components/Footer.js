@@ -28,9 +28,9 @@ const Footer = () => {
               <li><a href='/' className='link'>Accessibility statement</a></li>
             </ul>
             <div className='ml-auto'>
-              <Button>
+              <button className='flex border-[1px] items-center justify-center gap-1 px-7 py-2 hover:bg-slate-50 hover:bg-opacity-10 transition-all'>
                 <BsGlobe2 /> English
-              </Button>
+              </button>
             </div>
         </div>
         <div className='flex justify-between items-center pt-24 pb-12'>
