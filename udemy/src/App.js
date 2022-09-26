@@ -5,11 +5,13 @@ import Partners from './components/Partners'
 import Person from './components/Person'
 import Footer from './components/Footer'
 import Trends from './components/Trends'
+import Banner from './components/Banner'
 
 function App() {
   return (
     <div className="App">
       <Navbar />
+      <Banner />
       <Categories />
       <Trends />
       <Partners />

@@ -1,5 +1,4 @@
 import React from 'react'
-import Button from './Button'
 import { BsGlobe2 } from 'react-icons/bs'
 
 const Footer = () => {
