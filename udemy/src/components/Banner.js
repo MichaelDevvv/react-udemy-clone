@@ -13,7 +13,7 @@ const Banner = () => {
     <Swiper
       navigation={true}
       modules={[Navigation]}
-      className="mySwiper"
+      className="mySwiper mt-1"
       loop="true"
     >
       <SwiperSlide>
