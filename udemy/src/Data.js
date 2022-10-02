@@ -167,3 +167,19 @@ export const trends = [
     ],
   },
 ]
+
+
+export const banner = [
+  {
+    id:1,
+    img: 'woman2',
+    title: 'Find the right fit',
+    sub_title: "The topics you want, taught by real-world experts. Log in for deals on courses. Sale ends tomorrow."
+  },
+  {
+    id: 2,
+    img: 'banner2.jpg',
+    title: '24-Hour Flash Sale',
+    sub_title: 'Learn from real-world experts. Log in for special savings. Sale ends tonight!'
+  }
+]
